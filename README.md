@@ -2,4 +2,4 @@
 Работа по дисциплине html/css - испытание на деле, вёрстка макета с фигмы
 Сделал как сумел, немного импровизации ещё меня не убивало :D
 
-https://yankarpov.github.io/KT4--/
+https://yankarpov.github.io/KT4--/ - ссылка на GitHub Pages
